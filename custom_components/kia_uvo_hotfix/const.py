@@ -1,6 +1,6 @@
 """Constants for the Hyundai / Kia Connect integration."""
 
-DOMAIN: str = "kia_uvo"
+DOMAIN: str = "kia_uvo_hotfix"
 
 CONF_BRAND: str = "brand"
 CONF_FORCE_REFRESH_INTERVAL: str = "force_refresh"

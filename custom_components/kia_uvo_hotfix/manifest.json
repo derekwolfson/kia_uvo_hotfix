@@ -1,6 +1,6 @@
 {
-  "domain": "kia_uvo",
-  "name": "Kia Uvo / Hyundai Bluelink",
+  "domain": "kia_uvo_hotfix",
+  "name": "Kia Uvo / Hyundai Bluelink Hotfix",
   "codeowners": [
     "@fuatakgun"
   ],
